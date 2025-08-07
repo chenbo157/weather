@@ -5,7 +5,6 @@ import xarray as xr
 import numpy as np
 import pandas as pd
 import uvicorn
-from datetime import datetime, timedelta
 from fastapi.templating import Jinja2Templates
 from fastapi.staticfiles import StaticFiles
 from fastapi.responses import HTMLResponse

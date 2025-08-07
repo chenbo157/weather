@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+xarray
+netcdf4
+pandas
+numpy
+jinja2
